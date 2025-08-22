@@ -2382,7 +2382,7 @@
             "healthy_error": null,
             "home": "https://github.com/blakeblackshear/frigate",
             "location": "/__w/charts/charts/community/frigate",
-            "latest_version": "1.2.9",
+            "latest_version": "1.2.10",
             "latest_app_version": "0.15.0",
             "latest_human_version": "0.15.0_1.2.9",
             "last_update": "2025-03-06 08:26:26",
@@ -2406,7 +2406,7 @@
                 "https://media.sys.truenas.net/apps/frigate/screenshots/screenshot3.png"
             ],
             "sources": [
-                "https://github.com/truenas/charts/tree/master/library/ix-dev/community/frigate",
+                "https://github.com/randriese/charts/tree/master/library/ix-dev/community/frigate",
                 "https://github.com/blakeblackshear/frigate"
             ],
             "icon_url": "https://media.sys.truenas.net/apps/frigate/icons/icon.svg"
